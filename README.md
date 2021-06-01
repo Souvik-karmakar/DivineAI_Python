@@ -1,3 +1,3 @@
 # DivineAI
-Data Science (Material)
+Data Science
 SOUVIK KARMAKAR
